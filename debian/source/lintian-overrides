@@ -1,0 +1,5 @@
+python-installer source: file-without-copyright-information
+python-installer source: no-debian-changes
+python-installer source: source-contains-prebuilt-windows-binary
+python-installer source: source-is-missing
+python-installer source: source-package-encodes-python-version
