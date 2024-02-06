@@ -1,0 +1,4 @@
+python3-installer: copyright-without-copyright-notice
+python3-installer: initial-upload-closes-no-bugs
+python3-installer: no-manual-page
+python3-installer: zero-byte-file-in-doc-directory
