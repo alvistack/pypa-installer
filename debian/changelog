@@ -1,0 +1,5 @@
+python-installer (100:1.0.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pypa/installer/releases/tag/1.0.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Sun, 29 Mar 2026 12:13:09 +0800
